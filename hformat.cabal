@@ -1,5 +1,5 @@
 name:                hformat
-version:             0.1.0.0
+version:             0.1.0.1
 synopsis:            Simple Haskell formatting
 homepage:            http://github.com/mvoidex/hformat
 license:             BSD3
@@ -17,4 +17,4 @@ library
   -- other-modules:       
   build-depends:
     base >= 4.6 && < 4.8,
-    text >= 0.11 && < 1.2
+    text >= 0.11 && < 1.3
