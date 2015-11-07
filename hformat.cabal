@@ -12,9 +12,8 @@ cabal-version:       >=1.8
 
 library
   hs-source-dirs: src
-  exposed-modules:     
+  exposed-modules:
     Text.Format
-  -- other-modules:       
   build-depends:
-    base >= 4.6 && < 4.8,
-    text >= 0.11 && < 1.3
+      base
+    , text
